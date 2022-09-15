@@ -47,7 +47,7 @@ ABOUT division tells us about the restaurant and gives us the basic knowledge ab
   
   
 <br>
-CONTROL helps us to contact with the restaurant.
+CONTACT helps us to contact with the restaurant.
 <br>
   
   
