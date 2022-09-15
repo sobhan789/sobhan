@@ -2,7 +2,7 @@
 This is my FRT project.
 <h1>THIN CRUST PIZZA<h1>
 Languages used in this project are:
-HTML
+HTML.
 My webpage has four main divisions.
 They are:
 <br>
