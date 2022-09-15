@@ -58,4 +58,4 @@ CONTROL helps us to contact with the restaurant.
   
   
 
-The link to my Future Ready Talent project is:
+The link to my Future Ready Talent project is:https://gray-smoke-0ddc4ac10.1.azurestaticapps.net/
